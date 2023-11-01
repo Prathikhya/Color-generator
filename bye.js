@@ -1,3 +1,4 @@
+console.log(prompt("welcome"));
 let bt = document.querySelector("button");
 
 bt.addEventListener("click", function () {
