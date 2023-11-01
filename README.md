@@ -1,2 +1,2 @@
 # Color-generator
-Created with CodeSandbox
+Created with Me
